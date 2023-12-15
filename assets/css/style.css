@@ -1,0 +1,52 @@
+/* Universal selectors */
+* {
+	margin: 0;
+	padding: 0;
+}
+
+/* Element selectors */
+body {
+	color: brown;
+}
+
+main {
+	text-align: center;
+}
+
+header {
+    position: fixed;
+}
+
+nav {
+    text-align: right;
+}
+
+li {
+    display: inline;
+}
+
+img {
+	height: 200px;
+	width: 200px;
+}
+
+footer {
+	text-align: center;
+}
+
+/* Class selectors */
+.bg-green {
+	background-color: forestgreen;
+	color: beige;
+}
+
+.button {
+	background-color: rgb(57, 28, 28);
+	color: white;
+	width: 80px;
+}
+
+/* ID selectors */
+#contact {
+	background-color: rgb(247, 222, 222);
+}
