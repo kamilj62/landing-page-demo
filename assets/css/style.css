@@ -70,3 +70,10 @@ footer {
 #contact {
 	background-color: rgb(247, 222, 222);
 }
+
+#form {
+	border: 5px solid rgb(219, 167, 167);
+	margin-left: 400px;
+	margin-right: 400px;
+	border-radius: 10px;
+}
