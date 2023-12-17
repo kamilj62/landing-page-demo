@@ -17,7 +17,12 @@ main {
 
 header {
     position: fixed;
-}
+    top: 0;
+    width: 100%;
+    z-index: 1000; 
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+} 
 
 nav {
     text-align: right;
@@ -71,20 +76,13 @@ footer {
 	margin: 5px;
 }
 
-.contact {
+.contact-form {
 	color: grey;
 }
 
 /* ID selectors */
 #contact {
 	background-color: rgb(247, 222, 222);
-}
-
-#form {
-	border: 5px solid rgb(219, 167, 167);
-	margin-left: 350px;
-	margin-right: 350px;
-	border-radius: 10px;
 }
 
 #website {
