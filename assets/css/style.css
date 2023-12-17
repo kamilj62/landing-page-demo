@@ -29,6 +29,10 @@ nav {
     text-align: right;
 }
 
+ul {
+	padding: 10px;
+}
+
 li {
     display: inline;
 	padding: 5px;
