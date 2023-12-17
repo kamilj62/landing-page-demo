@@ -3,6 +3,7 @@
 	margin: 0;
 	padding: 0;
 	font-family: Arial, Helvetica, sans-serif;
+	color: grey;
 
 }
 
@@ -30,16 +31,17 @@ nav {
 
 li {
     display: inline;
+	padding: 5px;
 }
 
 /* unvisited link */
 a:link {
-	color: white;
+	color: grey;
   }
   
   /* visited link */
   a:visited {
-	color: white;
+	color: grey;
   }
   
   /* mouse over link */
