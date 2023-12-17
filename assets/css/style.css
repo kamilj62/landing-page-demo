@@ -30,12 +30,16 @@ nav {
 }
 
 ul {
-	padding: 10px;
+	padding-right: 10px;
 }
 
 li {
     display: inline;
 	padding: 5px;
+}
+
+h1 {
+	padding: 15px;
 }
 
 /* unvisited link */
