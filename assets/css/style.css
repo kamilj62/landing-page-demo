@@ -57,8 +57,9 @@ footer {
 
 /* Class selectors */
 .bg-green {
-	background-color: forestgreen;
+	background-color: rgb(21, 79, 21);
 	color: beige;
+	box-shadow: 5px 5px rgb(219, 167, 167)
 }
 
 .button {
@@ -68,6 +69,10 @@ footer {
 	margin: 5px;
 }
 
+.contact {
+	color: grey;
+}
+
 /* ID selectors */
 #contact {
 	background-color: rgb(247, 222, 222);
@@ -75,8 +80,8 @@ footer {
 
 #form {
 	border: 5px solid rgb(219, 167, 167);
-	margin-left: 400px;
-	margin-right: 400px;
+	margin-left: 350px;
+	margin-right: 350px;
 	border-radius: 10px;
 }
 
